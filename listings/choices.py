@@ -1,0 +1,71 @@
+bedroom_choices ={
+    "1":1,
+    "2":2,
+    "3":3,
+    "4":4,
+    "5":5,
+    "6":6,
+    "7":7,
+    "8":8,
+    "9":9,
+    "10":10
+}
+
+
+price_choices ={
+    "100000":"$100,000",
+    "200000":"$200,000",
+    "300000":"$300,000",
+    "400000":"$400,000",
+    "500000":"$500,000",
+    "600000":"$600,000",
+    "700000":"$700,000",
+    "800000":"$800,000",
+    "900000":"$900,000",
+    "1000000":"$1M+"
+}
+
+
+state_choices = {
+    "AL":"Aligarh",
+    "AK":"Alaska",
+    "AG":"Agra",
+    "AR":"Amritsar",
+    "CA":"Canada",
+    "CO":"Colombo",
+    "CT":"Calcutta",
+    "DE":"Dehradun",
+    "DL":"Delhi",
+    "FA":"Faridabad",
+    "GA":"Gurugram",
+    "HI":"Himachal",
+    "ID":"Idli",
+    "IL":"India",
+    "IN":"Iran",
+    "IA":"Iraq",
+    "KS":"Kanpur",
+    "KY":"Kolkata",
+    "LA":"Ludhiana",
+    "ME":"Massorrie",
+    "MD":"MMohali",
+    "MA":"Mathura",
+    "NE":"Nalanda",
+    "UP":"Noida",
+    "DL":"New Hampshire",
+    "OH":"Ohio",
+    "OK":"Okhla",
+    "OR":"Oregon",
+    "PA":"Palwal",
+    "RI":"Rajasthan",
+    "SC":"South Carolina",
+    "SD":"South Delhi",
+    "TN":"Tennessee",
+    "TX":"Texas",
+    "UT":"Udaypur",
+    "VT":"Vrindavan",
+    "VA":"Virginia",
+    "WA":"West Bengal",
+    "WV":"West Virginia",
+    "WI":"Wisconsin",
+    "WY":"Wyoming"
+}
